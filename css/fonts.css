@@ -1,0 +1,20 @@
+@font-face{
+	font-family: "BN";
+	src: url('../fonts/BN.woff2') format('woff2'), url('../fonts/BN.woff') format('woff');
+}
+
+@font-face{
+	font-family: "HV";
+	src: url('../fonts/HV.woff2') format('woff2'), url('../fonts/HV.woff') format('woff');
+}
+
+@font-face{
+	font-family: "HVB";
+	src: url('../fonts/HVB.woff2') format('woff2'), url('../fonts/HVB.woff') format('woff');
+}
+
+@font-face{
+	font-family: "HVR";
+	src: url('../fonts/HVR.woff2') format('woff2'), url('../fonts/HVR.woff') format('woff');
+
+}
